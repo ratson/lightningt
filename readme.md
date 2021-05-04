@@ -2,9 +2,7 @@
 
 ## Install
 
-Please clone repo, run codes below.
-Change App ID in package.json
-
+Please clone repo, change App ID in package.json, run codes below.
 
 ``` ini
 ionic repair
